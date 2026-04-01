@@ -2,7 +2,7 @@
 
 Portfólio pessoal desenvolvido do zero com HTML, CSS e JavaScript puro — sem frameworks, sem dependências.
 
-🌐 **Live:** [gamerkppyt.github.io/gamerkppyt-portfolio](https://gamerkppyt.github.io/gamerkppyt-portfolio)
+🌐 **Live:** [gamerkppyt.github.io/gamerkppyt-portfolio](https://gamerkppyt.github.io/gamerkppyt-portfolio)](https://gamerkppyt.github.io/gamerkppyt-portifolio/)
 
 ---
 
