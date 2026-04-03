@@ -79,7 +79,7 @@ drawCanvas();
 
 const codeLines = [
   '<span class="kw">const</span> <span class="var">dev</span> = {',
-  '  <span class="key">name</span>:     <span class="str">"GAMERKPPYT"</span>,',
+  '  <span class="key">name</span>:     <span class="str">"Kaike Peres"</span>,',
   '  <span class="key">role</span>:     <span class="str">"Full Stack Dev"</span>,',
   '  <span class="key">location</span>: <span class="str">"Brazil 🇧🇷"</span>,',
   '  <span class="key">stack</span>: [',
